@@ -1,1 +1,1 @@
-# For testing Xmas emails
+# For testing and sending Xmas emails
