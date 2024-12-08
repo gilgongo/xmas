@@ -30,7 +30,7 @@ def send_email(sender_user, sender_password, recipient_email, subject, html_file
         smtp.sendmail(sender_user, recipient_email, message.as_string())
 
 # Replace with SMTP auth credentials and email contents
-sender_email = "Chrystal Baker-Bates <chrystal@bakerbates.com>"
+sender_email = "Joe Bloggs <email@domain.com>"
 sender_user = "USERNAME"
 sender_password = "PASSWORD"
 subject = "Test // Happy Christmas 2024 // Test"
